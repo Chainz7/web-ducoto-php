@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignoring configuration folder
+koneksi.php
