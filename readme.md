@@ -6,7 +6,7 @@
 5. the admin pages username and password is ducoto | ducoto
 
 # Pages
-![DD](https://i.ibb.co/k6LMPCR/DD1.jpg)
+![DD](https://i.postimg.cc/TYJWh9fk/2023-V-8.png)
 ![DD](https://i.ibb.co/vvrWPJ5/DD2.jpg)
 ![DD](https://i.ibb.co/QC1H06h/DD3.jpg)
 ![DD](https://i.ibb.co/tzZgpnF/DD4.jpg)
