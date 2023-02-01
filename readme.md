@@ -1,15 +1,20 @@
 # Instalation Database MySql & Usage
-1. open phpmyadmin
-2. import database ducoto.sql from the folder 
-3. open at localhost/ducoto
-4. to open admin pages, redirect localhost/ducoto/admin
-5. the admin pages username and password is ducoto | ducoto
+1. Move the folder ducoto to xampp > htdoc
+2. Open phpmyadmin
+3. Import database ducoto.sql from the folder 
+4. In the browser type localhost/ducoto
+5. To open admin pages, in the browser type localhost/ducoto/admin
+6. The admin pages username and password is [ ducoto | ducoto ]
 
 # Pages
-![DD](https://i.postimg.cc/TYJWh9fk/2023-V-8.png)
-![DD](https://i.ibb.co/vvrWPJ5/DD2.jpg)
-![DD](https://i.ibb.co/QC1H06h/DD3.jpg)
-![DD](https://i.ibb.co/tzZgpnF/DD4.jpg)
-![DD](https://i.ibb.co/k3hsSv7/DD5.jpg)
-![DD](https://i.ibb.co/xfbrFTf/DD6.jpg)
-![DD](https://i.ibb.co/px2cBY1/DD7.jpg)
+![](https://i.postimg.cc/TYJWh9fk/2023-V-8.png)
+![](https://i.postimg.cc/NMrvPpdB/2023-RP-1-1.png)
+![](https://i.postimg.cc/8PGgtdMg/2023-RP-1-2.png)
+![](https://i.postimg.cc/brcfXk5b/2023-RP-1-3.png)
+![](https://i.postimg.cc/1XGhy4xd/2023-RP-1-4.png)
+![](https://i.postimg.cc/nVBt4Ss1/2023-RP-1-5.png)
+
+
+
+
+
